@@ -39,6 +39,7 @@ C 语言，即 C programing language，是从 B 语言发展而来，B 语言是
 C 语言用在哪里? ①操作系统 ②嵌入式系统 ③驱动程序 底层驱动 图形引擎、图像处理、声音效果等
 
 
+
 二、编程软件
 
 C 需要被编译才能运行，所以你需要编辑器和编译器，或者，IDE（集成开发环境，integrated development environment）。集成开发环境 IDE = 编辑器 editor + 编译器 complier
